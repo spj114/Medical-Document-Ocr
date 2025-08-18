@@ -54,10 +54,7 @@ Medical-Document-OCR/
 │       ├── test_parser_prescription.py
 │       └── test_patient_details_parser.py
 ├── frontend/
-│   └── index.html                  # Cyberpunk-themed web interface
-├── resources/
-│   ├── prescription/               # Sample prescription documents
-│   └── patient_details/            # Sample patient records
+│   └── index.html                  # Web interface
 └── images/                         # UI screenshots and documentation
 ```
 
@@ -178,15 +175,6 @@ Extract structured data from uploaded medical documents.
 }
 ```
 
-## 🎨 Design Philosophy
-
-The interface employs a **cyberpunk aesthetic** with:
-- **Neon color palette** - Cyan, green, and blue accent colors
-- **Futuristic typography** - Orbitron and Rajdhani font families
-- **Animated elements** - Scanning lines, glowing borders, pulse effects
-- **Responsive layout** - CSS Grid with mobile-first approach
-- **Intuitive UX** - Drag-and-drop uploads with visual feedback
-
 ## 🔍 Key Learning Outcomes
 
 This project demonstrates proficiency in:
@@ -209,7 +197,7 @@ This project demonstrates proficiency in:
 
 ## 🤝 Contributing
 
-This is a portfolio/learning project, but feedback and suggestions are welcome!
+This is a learning project, but feedback and suggestions are welcome!
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/enhancement`)
